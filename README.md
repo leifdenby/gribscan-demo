@@ -4,6 +4,8 @@ This repository contains the python environment and notebooks used to demonstrat
 
 The main notebook is the one demonstrating working with [UWC-W DINI Harmonie forecast data](notebooks/uwcw-dini-lcd.ipynb).
 
+The associated slides are available on [Google Slides](https://docs.google.com/presentation/d/1QEW3Lf5ozrtdMBnh_ZB6_aGTBOGEEUSg/edit?usp=sharing&ouid=110945450609871838015&rtpof=true&sd=true).
+
 ## Installation
 
 If you haven't already got python installed, I heavily recommend installing the fast and lightweight `uv` package manager:
